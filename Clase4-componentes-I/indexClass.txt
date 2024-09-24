@@ -1,0 +1,6 @@
+1. Cleanup project
+2. Component Greeting
+3. Prop message
+4. Count state (hover)
+5. Componentize NavBar
+6. Add cart icon
